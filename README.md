@@ -30,17 +30,16 @@ Step 8: Run Migrations
 ```bash
 php artisan migrate
 ```
-Step 8: Run Seed
+Step 9: Run Seed
 ```bash
 php artisan db:seed
 ```
-Step 9: Run the Development Server
+Step 10: Run the Development Server
 ```bash
 php artisan serve
 ```
-Visit http://127.0.0.1:8000 in your browser, and you should see the Laravel application.
-
-Step 10: Compile Assets
+Step 11: Compile Assets
 ```bash
 npm run dev
 ```
+Visit http://127.0.0.1:8000 in your browser, and you should see the Laravel application.
